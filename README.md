@@ -47,3 +47,6 @@ If you have something to add I welcome pull requests on improvement , you're hel
 
 If you find this repo useful , give it a star so as many people can get to know it.
 
+## Credit
+
+https://github.com/Kalebu/Plagiarism-checker-Python
